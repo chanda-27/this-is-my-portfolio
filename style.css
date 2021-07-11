@@ -21,7 +21,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image:linear-gradient(orange,tomato);
+    background-image:linear-gradient(crimson, tomato);
     padding:10px 20px;
     color:white;
     font-weight: 700;
